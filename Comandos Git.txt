@@ -8,4 +8,4 @@ git commit -m "Mensagem" = Criar anotação do commit
 git log = Mostras todo o log dos commits realizados
 git remote add origin https://github.com/leodesa/topicosespecias.git = Setar endereço do GIT
 git push -u origin master = Comitando pela primeira vez
-got push = Comitar
+git push = Comitar
